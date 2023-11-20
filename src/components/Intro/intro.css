@@ -53,9 +53,10 @@
     margin: 1rem 0;
     padding: 0.75rem 2rem;
     border-radius: 2rem;
-    &:hover {
-        background: olive;
-    }
+}
+
+.btn:hover{
+    background: olive;
 }
 
 @media screen and (max-width:840px) {

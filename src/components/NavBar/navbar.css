@@ -18,19 +18,21 @@
     object-fit:scale-down;
     height: 3rem;
     width: 4rem;
-    &:hover {
-        transform: rotate(20deg);
-        transition: 0.3s ease;
-    }
+}
+
+.logo:hover {
+    transform: rotate(20deg);
+    transition: 0.3s ease;
 }
 
 .desktopMenuListItem {
     margin: 1rem;
     cursor: pointer;
-    &:hover {
-        padding-bottom: 0.5rem;
-        border-bottom: 3px solid olive;
-    }
+}
+
+.desktopMenuListItem:hover {
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid olive;
 }
 
 .desktopMenuBtn {
@@ -43,9 +45,10 @@
     margin: 1rem;
     padding: 1rem;
     border-radius: 2rem;
-    &:hover {
-        background: olive;
-    }
+}
+
+.desktopMenuBtn:hover {
+    background: olive;
 }
 
 .active {
@@ -85,10 +88,11 @@
     object-fit:scale-down;
     height: 3rem;
     width: 4rem;
-    &:hover {
-        transform: rotate(20deg);
-        transition: 0.3s ease;
-    }
+}
+
+.githubIcon:hover {
+    transform: rotate(20deg);
+    transition: 0.3s ease;
 }
 
 @media screen and (max-width:720px) {
