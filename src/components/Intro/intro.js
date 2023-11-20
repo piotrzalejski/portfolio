@@ -1,6 +1,7 @@
 import React from "react";
 import "./intro.css";
 import { Link } from "react-scroll"
+import memoji from "../../assets/memoji.png"
 
 const Intro = () => {
     return(
@@ -11,7 +12,7 @@ const Intro = () => {
                 <p className="introPara">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Id, quibusdam veniam! <br />Laudantium neque ipsum porro excepturi, dicta quod aperiam et explicabo?</p>
                 <Link><button className="btn">Hire Me</button></Link>
             </div>
-            <img src="https://placehold.co/400x600" alt="" className="bg"/>
+            <img src={memoji} alt="" className="bg"/>
         </section>
     )
 }

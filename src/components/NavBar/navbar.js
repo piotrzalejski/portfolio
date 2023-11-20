@@ -8,7 +8,9 @@ const Navbar = () => {
     const [isOpen, setOpen] = useState(false)
     return(
         <nav className="navbar">
-            <img src={logo} width={75} height={75} alt="Logo" className="logo" />
+            <a href="/">
+                <img src={logo} width={75} height={75} alt="Logo" className="logo" />
+            </a>
             <div className="desktopMenu">
                 <Link activeClass="active" to="intro" spy={true} smooth={true} offset={-50} duration={500} className="desktopMenuListItem">Home</Link>
                 <Link activeClass="active" to="skills" spy={true} smooth={true} offset={-50} duration={500} className="desktopMenuListItem">About</Link>
