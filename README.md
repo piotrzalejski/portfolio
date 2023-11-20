@@ -1,3 +1,10 @@
+# Piotr Zalejski's Portfolio website (version 1)
+Website link: [piotrzalejski.github.io](https://piotrzalejski.github.io/portfolio)
+
+<br />
+<br />
+
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
