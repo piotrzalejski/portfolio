@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.605774d4.css",
+    "main.js": "/portfolio/static/js/main.07ae0cb6.js",
+    "static/media/memoji.png": "/portfolio/static/media/memoji.bf80835d069e5593e95b.png",
+    "static/media/githubicon.png": "/portfolio/static/media/githubicon.095e8523935306141aa7.png",
+    "static/media/logo2-olive.png": "/portfolio/static/media/logo2-olive.1b55377d87c874aa6af0.png",
+    "index.html": "/portfolio/index.html",
+    "main.605774d4.css.map": "/portfolio/static/css/main.605774d4.css.map",
+    "main.07ae0cb6.js.map": "/portfolio/static/js/main.07ae0cb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.605774d4.css",
+    "static/js/main.07ae0cb6.js"
+  ]
+}
